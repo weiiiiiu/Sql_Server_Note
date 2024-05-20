@@ -16,7 +16,7 @@
 
 （2）百度搜索"I tell you"，或者访问 https://msdn.itellyou.cn/
 
-![002](img\002.PNG)
+![002](https://raw.githubusercontent.com/weiiiiiu/pic/master/img/202405201818844.PNG)
 
 **打开数据库：**
 
@@ -46,27 +46,27 @@
 
 恢复：右击数据库-附加-增加
 
-![image-20240519184846458](C:\Users\Administrator\Desktop\sql_server学习资料\004-SQLSERVER数据库\MarkDown文档\01-初级\img\003.png)
+![image-20240519184846458](https://raw.githubusercontent.com/weiiiiiu/pic/master/img/202405201817692.png)
 
 （2）数据库的备份，还原；
 
 右键DB-任务-备份
 
-![image-20240519190405057](C:\Users\Administrator\Desktop\sql_server学习资料\004-SQLSERVER数据库\MarkDown文档\01-初级\img\004.png)
+![image-20240519190405057](https://raw.githubusercontent.com/weiiiiiu/pic/master/img/202405201817058.png)
 
 删除数据库-数据及日志文件都消失
 
-![image-20240519190721520](C:\Users\Administrator\Desktop\sql_server学习资料\004-SQLSERVER数据库\MarkDown文档\01-初级\img\005.png)
+![image-20240519190721520](https://raw.githubusercontent.com/weiiiiiu/pic/master/img/202405201817184.png)
 
 还原：右键数据库-还原
 
-![image-20240519191049380](C:\Users\Administrator\Desktop\sql_server学习资料\004-SQLSERVER数据库\MarkDown文档\01-初级\img\006.png)
+![image-20240519191049380](https://raw.githubusercontent.com/weiiiiiu/pic/master/img/202405201817810.png)
 
 （3）数据库脚本的保存；
 
-![image-20240519191308778](C:\Users\Administrator\Desktop\sql_server学习资料\004-SQLSERVER数据库\MarkDown文档\01-初级\img\007.png)
+![image-20240519191308778](https://raw.githubusercontent.com/weiiiiiu/pic/master/img/202405201817621.png)
 
-![image-20240519191414823](C:\Users\Administrator\Desktop\sql_server学习资料\004-SQLSERVER数据库\MarkDown文档\01-初级\img\008.png)
+![image-20240519191414823](https://raw.githubusercontent.com/weiiiiiu/pic/master/img/202405201817328.png)
 
 
 
